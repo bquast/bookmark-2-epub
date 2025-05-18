@@ -1,5 +1,5 @@
 # bookmark to epub
-This C program converts the markdown for books *bookmark* to epub.
+This C program converts the markdown for books in the *bookmark* for to files in the epub format.
 
 ## compiling
 Compile the program from the source code using:

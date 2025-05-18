@@ -6,3 +6,8 @@ Compile the program from the source code using:
 
     clang bm2epub.c -o bm2epub
 
+## usage
+The file takes a markdown file of the bookmark format as an input:
+
+    bm2epub book-name.md
+

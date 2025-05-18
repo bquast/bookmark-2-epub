@@ -10,7 +10,7 @@ You can download the latest release of `bm2epub` from the releases page:
 ## usage
 The file takes a markdown file of the bookmark format as an input:
 
-    bm2epub book-name.md
+    bm2epub book-filename.md
 
 ## compiling
 Compile the program from the source code using:
